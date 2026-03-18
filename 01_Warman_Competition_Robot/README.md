@@ -13,7 +13,7 @@ The system was activated with a single input and executed a fully autonomous seq
 
 ![Robot Overview](Image/sideview1.JPEG)
 ![Initial Design](Image/sideview2.JPEG)
-![Final Prototype](Image/bottomview.jpg)
+
 
 <!-- Add more images if needed -->
 <!-- ![Extra](./images/extra.jpg) -->
