@@ -197,7 +197,7 @@ Key takeaways:
 
 ## 🎥 Demo
 
-[Watch Robot in Action](ADD_VIDEO_LINK_HERE)
+[Watch Robot in Action](Video/Demo.MOV)
 
 ---
 
