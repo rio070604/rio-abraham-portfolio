@@ -46,4 +46,4 @@ Collection of STM32, sensor, and real-time system implementations.
 
 ## 📫 Contact
 - Email: rioabraham01@gmail.com
-- LinkedIn: [ADD LINK]
+- LinkedIn: www.linkedin.com/in/rio-abraham-627a81341
