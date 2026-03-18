@@ -1,6 +1,6 @@
 # 👋 Rio Abraham – Robotics & Embedded Systems Portfolio
 
-I am a final-year Robotics & Mechatronics Engineering student at Monash University specialising in embedded systems, FPGA design, and AI-driven control systems.
+I am a final-year Robotics & Mechatronics Engineering student at Monash University specialising in AI stream.
 
 I design and build real-world systems that integrate hardware, software, and intelligent algorithms.
 
