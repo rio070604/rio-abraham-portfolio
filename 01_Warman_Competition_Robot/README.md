@@ -11,9 +11,9 @@ The system was activated with a single input and executed a fully autonomous seq
 
 ## 🖼️ Project Gallery
 
-![Robot Overview](./images/robot_overview.jpg)
-![Initial Design](./images/initial_design.png)
-![Final Prototype](./images/final_robot.jpg)
+![Robot Overview](./images/sideview1.jpg)
+![Initial Design](./images/sideview2.png)
+![Final Prototype](./images/bottomview.jpg)
 
 <!-- Add more images if needed -->
 <!-- ![Extra](./images/extra.jpg) -->
